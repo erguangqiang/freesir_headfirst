@@ -9,3 +9,4 @@
 - 状态模式（state design pattern） `order-state.tar.gz` : [https://erguangqiang.github.io/2019/03/10/state/](https://erguangqiang.github.io/2019/03/10/state/)
 - 简单工厂模式（static factory design pattern） `noodle.tar.gz` : [https://erguangqiang.github.io/2019/03/10/static-factory/](https://erguangqiang.github.io/2019/03/10/static-factory/)
 - 策略模式（strategy design pattern） `cooker-strategy.tar.gz` : [https://erguangqiang.github.io/2019/03/10/strategy/](https://erguangqiang.github.io/2019/03/10/strategy/)
+- 抽象工厂模式(abstract facotry pattern) `noodle-abstract.tar.gz` : 后续补充
